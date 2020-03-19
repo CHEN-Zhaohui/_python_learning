@@ -72,7 +72,7 @@ def two_sum_5(num, array):
     for i, data in enumerate(array):
         if num-data in hashmap:
             j = hashmap.get(num-data)
-            print(j, i)  # j的顺序在i后面
+            print(j, i)  # j的顺序在i前面
         hashmap[data] = i
 
 def main():
