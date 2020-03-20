@@ -22,8 +22,8 @@ def number_characters_in_string_2(str):
 
 
 def main():
-    str = "pwwkew"
-    number_characters_in_string_2(str)
+    s = "pwwkew"
+    number_characters_in_string_2(s)
 
 
 if __name__ == '__main__':
