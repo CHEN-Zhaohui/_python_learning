@@ -78,8 +78,6 @@ def two_sum_5(num, array):
 def main():
     num = 88
     array = [10, 60, 8, 18, 33, 48, 29, 99, 88, 28]
-    # a = enumerate(array)
-    # print(list(a))
     two_sum_5(num, array)
 
 
