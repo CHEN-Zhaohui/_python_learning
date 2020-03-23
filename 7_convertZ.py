@@ -17,3 +17,9 @@ if __name__ == '__main__':
     test = Solution()
     s = "LEETCODEISHIRING"
     print(test.convert(s, 3))
+
+
+if __name__ == '__main__':
+    test = Solution()
+    s = "LEETCODEISHIRING"
+    print(test.convert(s, 3))
