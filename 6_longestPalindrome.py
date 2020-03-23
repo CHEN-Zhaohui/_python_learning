@@ -1,3 +1,4 @@
+
 class Solution:
     def force(self, s):
         length, longest = 0, []
@@ -43,4 +44,3 @@ if __name__ == '__main__':
     s = "babad"
     test = Solution()
     print(test.longestPalindrome(s))
-
